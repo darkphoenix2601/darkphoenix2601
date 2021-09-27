@@ -11,7 +11,7 @@
 <p align="center"> My GitHub Stats: 😎
 
 
-[![darkphoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkphoenix2601)](https://github.com/darkphoenix2601/github-readme-stats)
+[![darkphoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkphoenix2601)](https://github.com/darkphoenix2601/github-readme-stats )
 
 <!---
 toxic-demon26/toxic-demon26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
