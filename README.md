@@ -8,7 +8,7 @@
 <a href="https://t.me/akshi_s_ashu1">
   <img align="left" alt="darkphoenix Telegram" width="50px" src="https://img.icons8.com/nolan/64/telegram-app.png"/>
 
-My GitHub Stats: 😎
+<p align="center"> My GitHub Stats: 😎
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=darkphoenix2601&show_icons=true&theme=gotham" alt="darkphoenix2601" />
 <br/>
   <br/>
