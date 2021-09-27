@@ -5,7 +5,7 @@
 ## thing's on which i am 
 [<img align="left" alt="codeSTACKr | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCp85JeALFyCLSIrt7yoPHcw)
 [<img align="left" alt="codeSTACKr | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/toxi_cboy30/)
-<a href="https://t.me/akshi_s_ashu">
+<a href="https://t.me/akshi_s_ashu1">
   <img align="left" alt="darkphoenix Telegram" width="50px" src="https://img.icons8.com/nolan/64/telegram-app.png"/>
 
 My GitHub Stats: 😎
