@@ -6,11 +6,9 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCp85JeALFyCLSIrt7yoPHcw)
 [<img align="left" alt="codeSTACKr | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/toxi_cboy30/)
 
-<a href="https://t.me/akshi_s_ashu1">
 <img align="left" alt="darkphoenixTelegram" width="22px" src="https://img.icons8.com/nolan/64/telegram-app.png" /("https://t.me/akshi_s_ashu1")
 
 -My GitHub Stats: 😎
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=darkphoenix2601&show_icons=true&theme=gotham" alt="darkphoenix2601" />
 <br/>
   <br/>
