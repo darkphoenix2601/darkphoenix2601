@@ -11,7 +11,7 @@
 
 <p align="center"> My GitHub Stats: 😎
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=darkphoenix2601&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=darkphoenix2601&count_private=true&theme=radical)]()
 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkphoenix2601&langs_count=5&theme=tokyonight)]()
