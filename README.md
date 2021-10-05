@@ -10,8 +10,8 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/toxi_cboy30/)
 
 <p align="center"> My GitHub Stats: 😎
-##   **Github Stats**
-![The-Terminal's github stats](https://github-readme-stats.vercel.app/api?username=darkphoenix-lab&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=darkphoenix2601lord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkphoenix2601lord&langs_count=5&theme=tokyonight)]()
 
 
 
