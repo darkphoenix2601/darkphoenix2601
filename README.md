@@ -13,8 +13,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=darkphoenix2601&count_private=true&theme=tokyonight&showicons=true)]()
 
-<p align="center"> My languages Stats: 😎  
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkphoenix2601&langs_count=5&theme=tokyonight)]()
+<p align="center">   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkphoenix2601&langs_count=5&theme=tokyonight)]()
 
 
 
