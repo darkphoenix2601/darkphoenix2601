@@ -10,6 +10,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/toxi_cboy30/)
 
 <p align="center"> My GitHub Stats: 😎
+[![darkphoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=darkphoenix2601)](https://github.com/darkphoenix2601/github-readme-stats)
+ ![Github Trophy](https://github-profile-trophy.vercel.app/?username=darkphoenix2601)
+
 
 
 
